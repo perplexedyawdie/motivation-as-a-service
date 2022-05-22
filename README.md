@@ -8,7 +8,7 @@
 
 > Random project made for MLH Rookie Hacks II. The aim was to use tech that you haven't used before. I made a backend with Golang connects to Twilio and sends a message that gets spoken to a demotivated gym goer that calls the number! This is just a landing page I slapped together for lolz sake.
 
-### 🏠 [Homepage](https://www.motivate.me)
+### 🏠 [Homepage](https://motivate.pages.dev/)
 
 ## Author
 
